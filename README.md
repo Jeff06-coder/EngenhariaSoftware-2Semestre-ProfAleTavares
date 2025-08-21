@@ -1,7 +1,6 @@
 # EngenhariaSoftware-2Semestre-ProfAleTavares
 Aulas e Tarefas da faculdade (ADS): Curso Engenharia de Sotfware do 2 Semestre com Professor Alexandro Tavares.
 
-Historia
 
 # História do Git
 
@@ -40,4 +39,3 @@ Com o surgimento do GitHub em 2008, o Git se tornou ainda mais popular, facilita
 
 - [Site oficial do Git](https://git-scm.com/)
 - [História do Git no GitHub](https://github.com/git/git)
--
