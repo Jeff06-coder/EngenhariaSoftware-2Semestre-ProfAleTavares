@@ -2,6 +2,8 @@
 Aulas e Tarefas da faculdade (ADS): Curso Engenharia de Sotfware do 2 Semestre com Professor Alexandro Tavares.
 
 
+
+
 # História do Git
 
 O **Git** é um sistema de controle de versão distribuído criado para gerenciar projetos de desenvolvimento de software com rapidez e eficiência. Ele é amplamente utilizado por desenvolvedores em todo o mundo e é a base de plataformas como o GitHub e o GitLab.
