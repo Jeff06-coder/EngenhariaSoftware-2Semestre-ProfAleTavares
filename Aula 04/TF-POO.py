@@ -20,7 +20,7 @@ class Moto(Veiculo): #Herdando Class Veiculo
         super().__init__(marca, modelo, ano) #Esta subescrevendo o metodo da classe mãe
         self.cilindradas = cilindradas
     def ligar_motor(self): #Esse seria o metodo polimorfico
-        print(f"O motor do carro está ligado com {self.cilindradas}.")
+        print(f"O motor do moto está ligado com {self.cilindradas}.")
 
 # Criando instâncias (seria esecificando o conteudo da class pra poder funcionar) das classes
 veiculo_generico = Veiculo("Toyota", "Corolla", 2020)
